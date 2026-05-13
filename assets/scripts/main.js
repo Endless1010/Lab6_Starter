@@ -1,6 +1,6 @@
 // main.js
 // Run the init() function when the page has loaded
-window.addEventListener("DOMContentLoaded", init);
+init();
 // Starts the program, all function calls trace back here
 function init() {
 	// Get the recipes from localStorage
